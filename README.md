@@ -64,6 +64,10 @@ I haven’t added a publicly verifiable hackathon project or achievement here ye
 - Explore AI features when they make a product more useful.
 - Learn from open-source projects and collaborate with other developers.
 
+## Open-source collaboration
+
+I’m interested in starting with clear documentation, beginner-friendly issues, and small improvements to practical Python and web development tools. If you maintain a project with a well-scoped first contribution, I’d be glad to learn from it.
+
 ## Contact
 
 You can find me on [GitHub](https://github.com/mahesh817) and [LinkedIn](https://www.linkedin.com/in/mahesh-koeri-422931430/).
