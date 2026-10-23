@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="302" viewBox="0 0 1200 302" role="img" aria-labelledby="title desc">
+  <title id="title">Live-coding visual — Python idea builder</title>
+  <desc id="desc">A static fallback of a terminal-inspired Python code visual. It is a design simulation and no process is running.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070a13"/>
+      <stop offset=".6" stop-color="#0b1222"/>
+      <stop offset="1" stop-color="#11102a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="86%" cy="18%" r="90%">
+      <stop offset="0" stop-color="#1f3263" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#1f3263" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#7b9ac6" stroke-opacity=".085" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="300" rx="22" fill="url(#background)" stroke="#27364f"/>
+  <rect x="2" y="2" width="1196" height="298" rx="21" fill="url(#glow)"/>
+  <rect x="2" y="2" width="1196" height="298" rx="21" fill="url(#grid)"/>
+  <g>
+    <rect x="92" y="40" width="1016" height="240" rx="14" fill="#0a0f1b" stroke="#27364f"/>
+    <path d="M93 54a13 13 0 0 1 13-13h988a13 13 0 0 1 13 13v30H93z" fill="#0d1422"/>
+    <path d="M93 84H1107" stroke="#27364f"/>
+    <circle cx="113" cy="61" r="4" fill="#f6656e"/><circle cx="128" cy="61" r="4" fill="#f6bc52"/><circle cx="143" cy="61" r="4" fill="#54cb8f"/>
+    <text x="165" y="65" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8fa3c2">idea_to_product.py</text>
+    <text x="787" y="65" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#54c7ff">CODE IN MOTION  ·  VISUAL SIMULATION</text>
+    <g font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="17">
+      <g font-size="11" fill="#647a9b"><text x="119" y="119">01</text><text x="119" y="147">02</text><text x="119" y="175">03</text><text x="119" y="203">04</text><text x="119" y="231">05</text></g>
+      <text x="165" y="119" fill="#8fa3c2"># turn ideas into useful tools</text>
+      <text x="165" y="147"><tspan fill="#b091ff">def </tspan><tspan fill="#54c7ff">build_future</tspan><tspan fill="#ebf2ff">(ideas):</tspan></text>
+      <text x="165" y="175"><tspan fill="#b091ff">    for </tspan><tspan fill="#6ae8bb">idea </tspan><tspan fill="#ebf2ff">in ideas:</tspan></text>
+      <text x="165" y="203"><tspan fill="#b091ff">        if </tspan><tspan fill="#ffca7d">idea.solves_a_problem:</tspan></text>
+      <text x="165" y="231"><tspan fill="#ebf2ff">            </tspan><tspan fill="#54c7ff">build</tspan><tspan fill="#ebf2ff">(idea)</tspan><tspan fill="#54c7ff">▍</tspan></text>
+    </g>
+    <path d="M112 242H1088" stroke="#27364f" stroke-opacity=".72"/>
+    <circle cx="115" cy="255" r="3.5" fill="#6ae8bb"/>
+    <text x="127" y="259" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#6ae8bb">STATUS: READY TO BUILD</text>
+    <text x="828" y="259" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#8fa3c2">NO LIVE PROCESS · VISUAL ONLY</text>
+  </g>
+</svg>
