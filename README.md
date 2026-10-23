@@ -68,7 +68,7 @@ I’m interested in starting with clear documentation, beginner-friendly issues,
 
 ## Contact
 
-The best place to find me right now is [GitHub](https://github.com/mahesh817). I’ll add other professional links when they’re available.
+You can find me on [GitHub](https://github.com/mahesh817) and [LinkedIn](https://www.linkedin.com/in/mahesh-koeri-422931430/).
 
 <p align="center">
   <sub>Mahesh Koeri · learning, making, improving</sub>
