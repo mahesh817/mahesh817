@@ -1,68 +1,70 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Mahesh Koeri — learning in public and building with intention" width="100%" />
+  <img src="./assets/hero.gif" alt="Animated developer workstation for Mahesh Koeri, with a rotating learning-focused tagline and Python code appearing in a terminal" width="100%" />
+  <br />
+  <sub>If motion is unavailable, view the <a href="./assets/hero.svg">static hero fallback</a>.</sub>
 </div>
 
-<h1 align="center">Mahesh Koeri</h1>
+# Mahesh Koeri
 
-<p align="center">
+<p>
   <strong>Learning in public. Building with intention.</strong><br />
-  Python · JavaScript · HTML web development basics · useful products
+  Python · JavaScript · HTML and web development basics · practical AI interests
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/mahesh817">GitHub profile</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/mahesh817?tab=repositories">Repositories</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mahesh-koeri-422931430/">LinkedIn</a>
 </p>
 
----
+## About me
 
-## About
-
-Hi, I’m Mahesh (he/him). I’m building my foundation in software development, currently learning Python, JavaScript fundamentals, and HTML web development basics while practicing programming problems. I want to turn that foundation into small, useful products and grow through projects, feedback, and collaboration.
-
-I’m also curious about practical uses of AI: the kind that helps solve a real problem and makes a product more useful.
+Hi, I’m Mahesh (he/him). I’m building a foundation in software development by learning Python, JavaScript fundamentals, and HTML and web development basics while practicing programming problems. I’m curious about practical AI and want to build small tools that solve real problems.
 
 ## Current focus
 
-```text
-mahesh@workstation ~ % focus
-Python + JavaScript fundamentals + HTML web development basics
+- Build confidence with Python and JavaScript fundamentals.
+- Learn HTML and the basics of web development.
+- Practice programming problems and core logic.
+- Turn that learning into a first useful project.
 
-mahesh@workstation ~ % next
-Build and share a first useful project
-```
+## Tech stack
 
-## Technology map
-
-| Area | Current focus |
+| Area | Current stage |
 | --- | --- |
-| Learning | Python, JavaScript fundamentals, and HTML web development basics |
-| Practicing | Programming problems and core logic |
-| Exploring | Practical software products and useful AI features |
+| Python | Learning the fundamentals |
+| JavaScript | Learning the fundamentals |
+| HTML and web development | Learning the basics |
+| AI | Exploring practical, useful applications |
 
-*This reflects current learning activity. No software project is available yet to verify a shipped stack.*
+<div align="center">
+  <img src="./assets/live-coding.gif" alt="Animated visual simulation of Python code being typed in a terminal; no live process is running" width="100%" />
+  <br />
+  <sub>Code in motion · visual simulation · <a href="./assets/live-coding.svg">static fallback</a></sub>
+</div>
 
 ## Featured projects
 
-At the time of the audit, there were no public or private project repositories to feature. This profile repository now gives the account a home, but it isn’t a software project to showcase. I’ll add project cards once there is published work to show, with a clear problem statement, the implementation, and a demo where available.
+I don’t have a separate software project published yet. This repository is my profile, not a project showcase; I’ll feature work here as I build and publish it.
 
-## GitHub activity
+## GitHub statistics & activity
 
-The account has a short contribution history so far. I’ve left out statistics cards and contribution animations until they can add useful context.
+I use GitHub’s own contribution graph and activity feed for an up-to-date view of my profile: [view my GitHub activity](https://github.com/mahesh817).
 
-## Achievements & innovation
+## Hackathon achievements
 
-No public achievements or hackathon projects were visible in the account audit. Verified milestones can be added here as they happen.
+I haven’t added a publicly verifiable hackathon project or achievement here yet. I’ll update this section when I have details and work to share.
 
 ## What I’m working toward
 
-- Strengthen my Python, JavaScript, and web development fundamentals.
-- Build and publish small projects that solve concrete problems.
-- Explore AI features when they make a product more helpful.
+- Strengthen my Python, JavaScript, and web development basics.
+- Publish small projects that solve concrete problems.
+- Explore AI features when they make a product more useful.
 - Learn from open-source projects and collaborate with other developers.
 
-## Open source
+## Open-source collaboration
 
 I’m interested in starting with clear documentation, beginner-friendly issues, and small improvements to practical Python and web development tools. If you maintain a project with a well-scoped first contribution, I’d be glad to learn from it.
 

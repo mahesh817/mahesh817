@@ -1,34 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Mahesh Koeri — Learning in public</title>
-  <desc id="desc">A dark, minimal developer banner with electric blue and violet accents.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Mahesh Koeri — developer profile</title>
+  <desc id="desc">A midnight-blue developer workstation with a Python code sample and a learning-focused profile.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#080b13"/>
-      <stop offset="0.56" stop-color="#0b1020"/>
-      <stop offset="1" stop-color="#111025"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070a13"/>
+      <stop offset="0.58" stop-color="#0b1222"/>
+      <stop offset="1" stop-color="#11102a"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#57c7ff"/>
-      <stop offset="1" stop-color="#a78bfa"/>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#54c7ff" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#b091ff" stop-opacity=".72"/>
     </linearGradient>
-    <radialGradient id="glow" cx="84%" cy="15%" r="72%">
-      <stop offset="0" stop-color="#6941c6" stop-opacity=".28"/>
-      <stop offset="1" stop-color="#6941c6" stop-opacity="0"/>
+    <radialGradient id="glow" cx="82%" cy="22%" r="85%">
+      <stop offset="0" stop-color="#1f3263" stop-opacity=".48"/>
+      <stop offset="1" stop-color="#1f3263" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#91a4c7" stroke-opacity=".08" stroke-width="1"/>
+      <path d="M40 0H0V40" fill="none" stroke="#7b9ac6" stroke-opacity=".09" stroke-width="1"/>
     </pattern>
   </defs>
-  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="24" fill="url(#glow)"/>
-  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
-  <path d="M48 286H1152" stroke="url(#accent)" stroke-opacity=".6"/>
-  <path d="M48 286H276" stroke="url(#accent)" stroke-width="3"/>
-  <circle cx="1100" cy="74" r="3" fill="#57c7ff"/>
-  <circle cx="1120" cy="74" r="3" fill="#a78bfa"/>
-  <circle cx="1140" cy="74" r="3" fill="#57c7ff" fill-opacity=".5"/>
-  <text x="72" y="104" fill="#91a4c7" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="600" letter-spacing="4">DEVELOPER PROFILE · 01</text>
-  <text x="68" y="190" fill="#f4f7ff" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="58" font-weight="700" letter-spacing="-1">MAHESH KOERI</text>
-  <text x="72" y="232" fill="#c4cee0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22">Learning in public. Building with intention.</text>
-  <text x="72" y="322" fill="#91a4c7" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="600" letter-spacing="2">PYTHON  ·  JAVASCRIPT  ·  HTML WEB DEVELOPMENT BASICS</text>
+  <rect x="1" y="1" width="1198" height="428" rx="22" fill="url(#background)" stroke="#27364f"/>
+  <rect x="2" y="2" width="1196" height="426" rx="21" fill="url(#glow)"/>
+  <rect x="2" y="2" width="1196" height="426" rx="21" fill="url(#grid)"/>
+  <path d="M64 13H1136" stroke="url(#edge)" stroke-width="2"/>
+  <path d="M605 74V358" stroke="#27364f" stroke-opacity=".68"/>
+  <circle cx="67" cy="32" r="2" fill="#54c7ff" opacity=".65"/>
+  <circle cx="760" cy="36" r="2" fill="#b091ff" opacity=".65"/>
+  <circle cx="1060" cy="386" r="2" fill="#6ae8bb" opacity=".7"/>
+  <g font-family="SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="72" y="86" font-size="13" font-weight="600" letter-spacing="1.1" fill="#54c7ff">DEVELOPER PROFILE // 001</text>
+  </g>
+  <text x="68" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="48" font-weight="700" letter-spacing="-1" fill="#ebf2ff">MAHESH KOERI</text>
+  <text x="72" y="205" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19" font-weight="500" fill="#ebf2ff">Building ideas into products.</text>
+  <text x="72" y="244" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" fill="#8fa3c2">A foundation in code. A curiosity for practical AI.</text>
+  <path d="M72 261H552" stroke="#27364f" stroke-opacity=".8"/>
+  <text x="72" y="295" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing=".8" fill="#8fa3c2">CURRENTLY LEARNING</text>
+  <circle cx="79" cy="319" r="3" fill="#6ae8bb"/>
+  <text x="91" y="321" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#ebf2ff">PYTHON  ·  JAVASCRIPT</text>
+  <text x="72" y="351" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#54c7ff">HTML &amp; WEB DEVELOPMENT BASICS</text>
+  <text x="72" y="395" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing=".55" fill="#8fa3c2">LEARNING IN PUBLIC  /  BUILDING WITH INTENTION</text>
+  <g>
+    <rect x="640" y="70" width="490" height="292" rx="14" fill="#0a0f1b" stroke="#27364f"/>
+    <path d="M641 84a13 13 0 0 1 13-13h462a13 13 0 0 1 13 13v30H641z" fill="#0d1422"/>
+    <path d="M641 114H1129" stroke="#27364f"/>
+    <circle cx="661" cy="91" r="4" fill="#f6656e"/>
+    <circle cx="676" cy="91" r="4" fill="#f6bc52"/>
+    <circle cx="691" cy="91" r="4" fill="#54cb8f"/>
+    <text x="713" y="95" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8fa3c2">workspace / idea_to_product.py</text>
+    <circle cx="1093" cy="91" r="4" fill="#6ae8bb"/>
+    <g font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+      <g fill="#647a9b" font-size="11">
+        <text x="667" y="164">01</text><text x="667" y="186">02</text><text x="667" y="208">03</text><text x="667" y="230">04</text><text x="667" y="252">05</text>
+      </g>
+      <text x="704" y="164" fill="#8fa3c2"># turn ideas into useful tools</text>
+      <text x="704" y="186"><tspan fill="#b091ff">def </tspan><tspan fill="#54c7ff">build_future</tspan><tspan fill="#ebf2ff">(ideas):</tspan></text>
+      <text x="704" y="208"><tspan fill="#b091ff">    for </tspan><tspan fill="#6ae8bb">idea </tspan><tspan fill="#ebf2ff">in ideas:</tspan></text>
+      <text x="704" y="230"><tspan fill="#b091ff">        if </tspan><tspan fill="#ffca7d">idea.solves_a_problem:</tspan></text>
+      <text x="704" y="252"><tspan fill="#ebf2ff">            </tspan><tspan fill="#54c7ff">build</tspan><tspan fill="#ebf2ff">(idea)</tspan><tspan fill="#54c7ff">▍</tspan></text>
+    </g>
+    <path d="M660 331H1110" stroke="#27364f" stroke-opacity=".72"/>
+    <circle cx="663" cy="342" r="3.5" fill="#6ae8bb"/>
+    <text x="675" y="346" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#6ae8bb">STATUS: READY TO BUILD</text>
+    <text x="939" y="346" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="8.7" fill="#8fa3c2">NO LIVE PROCESS · VISUAL ONLY</text>
+  </g>
 </svg>
