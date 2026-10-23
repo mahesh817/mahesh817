@@ -41,15 +41,15 @@ Build and share a first useful project
 | Practicing | Programming problems and core logic |
 | Exploring | Practical software products and useful AI features |
 
-*This reflects current learning activity. No project repository is available yet to verify a shipped stack.*
+*This reflects current learning activity. No software project is available yet to verify a shipped stack.*
 
 ## Featured projects
 
-I didn’t find public or private repositories in the account during this audit, so there are no project cards to link yet. I’ll add projects here once there is published work to show, with a clear problem statement, the implementation, and a demo where available.
+At the time of the audit, there were no public or private project repositories to feature. This profile repository now gives the account a home, but it isn’t a software project to showcase. I’ll add project cards once there is published work to show, with a clear problem statement, the implementation, and a demo where available.
 
 ## GitHub activity
 
-The profile currently shows **0 contributions in the past year**. I’ve left out statistics cards and contribution animations so this page stays grounded in the activity that exists today.
+The account has a short contribution history so far. I’ve left out statistics cards and contribution animations until they can add useful context.
 
 ## Achievements & innovation
 
