@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Learning in public. Building with intention.</strong><br />
-  JavaScript fundamentals · practical problem solving · useful products
+  Python · JavaScript · HTML web development basics · useful products
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## About
 
-Hi, I’m Mahesh (he/him). I’m building my foundation in software development, currently working through JavaScript fundamentals and programming problems. I want to turn that foundation into small, useful products and grow through projects, feedback, and collaboration.
+Hi, I’m Mahesh (he/him). I’m building my foundation in software development, currently learning Python, JavaScript fundamentals, and HTML web development basics while practicing programming problems. I want to turn that foundation into small, useful products and grow through projects, feedback, and collaboration.
 
 I’m also curious about practical uses of AI: the kind that helps solve a real problem and makes a product more useful.
 
@@ -27,7 +27,7 @@ I’m also curious about practical uses of AI: the kind that helps solve a real 
 
 ```text
 mahesh@workstation ~ % focus
-JavaScript fundamentals + problem-solving practice
+Python + JavaScript fundamentals + HTML web development basics
 
 mahesh@workstation ~ % next
 Build and share a first useful project
@@ -37,7 +37,7 @@ Build and share a first useful project
 
 | Area | Current focus |
 | --- | --- |
-| Learning | JavaScript fundamentals |
+| Learning | Python, JavaScript fundamentals, and HTML web development basics |
 | Practicing | Programming problems and core logic |
 | Exploring | Practical software products and useful AI features |
 
@@ -57,14 +57,14 @@ No public achievements or hackathon projects were visible in the account audit. 
 
 ## What I’m working toward
 
-- Strengthen my JavaScript and problem-solving fundamentals.
+- Strengthen my Python, JavaScript, and web development fundamentals.
 - Build and publish small projects that solve concrete problems.
 - Explore AI features when they make a product more helpful.
 - Learn from open-source projects and collaborate with other developers.
 
 ## Open source
 
-I’m interested in starting with clear documentation, beginner-friendly issues, and small improvements to practical JavaScript tools. If you maintain a project with a well-scoped first contribution, I’d be glad to learn from it.
+I’m interested in starting with clear documentation, beginner-friendly issues, and small improvements to practical Python and web development tools. If you maintain a project with a well-scoped first contribution, I’d be glad to learn from it.
 
 ## Contact
 
